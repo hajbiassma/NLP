@@ -1,1 +1,1 @@
-# NLP
+Ce projet combine NLP et graphes pour analyser les avis clients, modéliser les interactions utilisateur–produit et exploiter des Graph Neural Networks afin de prédire les notes, recommander des produits et répondre à des questions via un Graph-RAG.
